@@ -1,0 +1,15 @@
+<!-- res/drawable/top_rounded_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Background color -->
+    <solid android:color="#FFFFFF" /> <!-- Adjust as needed -->
+
+    <!-- Border -->
+    <stroke android:width="2dp"  /> <!-- Border color and width -->
+
+    <!-- Define specific corner radii -->
+    <corners
+        android:topLeftRadius="50dp"
+        android:topRightRadius="50dp"
+        android:bottomLeftRadius="0dp"
+        android:bottomRightRadius="0dp" />
+</shape>

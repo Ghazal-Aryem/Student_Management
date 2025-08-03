@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgimage"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <TextView
+        android:id="@+id/displayItems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/itemlist"
+        android:fontFamily="@font/bricolage_grotesque_medium"
+        android:padding="8dp"
+        android:text="Fetching..."
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/readButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#501111"
+        android:fontFamily="@font/bricolage_grotesque_medium"
+        android:text="Fetch Items"
+        android:textColor="@color/white"
+        android:textColorLink="#FFFFFF" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#501111"
+        android:fontFamily="@font/bricolage_grotesque_medium"
+        android:text="Back to Main"
+        android:textColor="@color/white"
+        android:textColorLink="#FFFFFF" />
+
+</LinearLayout>
