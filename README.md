@@ -20,7 +20,7 @@ This is an Android-based **Student Management System** built using **Android Stu
 
 > 📌 _Click the link below to watch the working demo of the app._
 
-**▶️ [Watch Demo Video](asssets/Screen_Recording.mp4)**  
+**▶️ [Watch Demo Video](assets/Screen_Recording.mp4)**  
 <!-- Replace # with your actual video link, e.g., https://youtu.be/your-video-id -->
 
 ---
@@ -39,22 +39,22 @@ This is an Android-based **Student Management System** built using **Android Stu
 > 📌 _Replace the placeholder text with actual screenshots later._
 
 ### 🔐 Login Screen
-![Login Screen](asssets/login.png)
+![Login Screen](assets/login.png)
 
 ### 🏠 Home Screen
-![Home Screen](asssets/home.png)
+![Home Screen](assets/home.png)
 
 ### ➕ Add Student
 ![Add Student](asssets/insert.png)
 
 ### 🧾 View Student List
-![View Students](asssets/view.png)
+![View Students](assets/view.png)
 
 ### ✏️ Update Student
-![Update Student](asssets/update.png)
+![Update Student](assets/update.png)
 
 ### ❌ Delete Student
-![Delete Student](asssets/delete.png)
+![Delete Student](assets/delete.png)
 
 ---
 
