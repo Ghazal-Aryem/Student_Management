@@ -45,7 +45,7 @@ This is an Android-based **Student Management System** built using **Android Stu
 ![Home Screen](assets/home.png)
 
 ### ➕ Add Student
-![Add Student](asssets/insert.png)
+![Add Student](assets/insert.png)
 
 ### 🧾 View Student List
 ![View Students](assets/view.png)
